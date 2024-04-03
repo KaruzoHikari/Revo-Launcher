@@ -1,8 +1,8 @@
-# Wii Phone
-Welcome to the Wii Phone repo!
+# Revo Launcher
+Welcome to the Revo Launcher repo!
 
 ## Head over to...
-- **Releases** page, in order to know the changes in the latest Wii Phone version:\
-https://github.com/KaruzoHikari/Wii-Phone/releases
-- **Wiki**, in order to learn more about this app!\
-https://github.com/KaruzoHikari/Wii-Phone/wiki/
+- **Releases** page, in order to download the latest version of the app and learn its changes:\
+https://github.com/KaruzoHikari/Revo-Launcher/releases
+- **Wiki**, in order to learn more about this program!\
+https://github.com/KaruzoHikari/Revo-Launcher/wiki/

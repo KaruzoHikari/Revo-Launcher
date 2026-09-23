@@ -1,0 +1,11 @@
+<linker>
+  <assembly fullname="Newtonsoft.Json">
+    <type fullname="*" preserve="all"/>
+  </assembly>
+  <assembly fullname="Newtonsoft.Json.Converters">
+    <type fullname="*" preserve="all"/>
+  </assembly>
+  <assembly fullname="Newtonsoft.Json.UnityConverters">
+    <type fullname="*" preserve="all"/>
+  </assembly>
+</linker>

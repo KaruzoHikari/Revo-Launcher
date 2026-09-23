@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6a4f16ed905adcd4ab0d7c8c11f0d72c
+timeCreated: 1522092746
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -9869
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 68068
+  packageName: In-game Debug Console
+  packageVersion: 1.8.9
+  assetPath: Assets/Plugins/IngameDebugConsole/Scripts/DebugLogManager.cs
+  uploadId: 970394

@@ -1,0 +1,1 @@
+﻿public delegate void WiiSetter<in T>(T newValue);

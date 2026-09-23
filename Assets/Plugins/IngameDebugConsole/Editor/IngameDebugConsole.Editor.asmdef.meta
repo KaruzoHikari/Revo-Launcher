@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 466e67dabd1db22468246c39eddb6c3f
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 68068
+  packageName: In-game Debug Console
+  packageVersion: 1.8.9
+  assetPath: Assets/Plugins/IngameDebugConsole/Editor/IngameDebugConsole.Editor.asmdef
+  uploadId: 970394

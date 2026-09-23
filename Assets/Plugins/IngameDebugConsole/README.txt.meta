@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: edf2ac73f7bc3064c96d53009106dc53
+timeCreated: 1563307881
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 68068
+  packageName: In-game Debug Console
+  packageVersion: 1.8.9
+  assetPath: Assets/Plugins/IngameDebugConsole/README.txt
+  uploadId: 970394

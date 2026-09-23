@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c4e8ee7cea600bf4fb4498b4a47ae8f5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113006
+  packageName: Runtime File Browser
+  packageVersion: 1.7.7
+  assetPath: Assets/Plugins/SimpleFileBrowser/Prefabs/SimpleFileBrowserQuickLink.prefab
+  uploadId: 914872

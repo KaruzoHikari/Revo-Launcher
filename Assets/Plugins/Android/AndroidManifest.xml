@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.unity3d.player" xmlns:tools="http://schemas.android.com/tools">
+  <application android:allowBackup="false">
+    <provider android:name="androidx.core.content.FileProvider" android:authorities="com.karuzohikari.wiiphone.fileprovider" android:exported="false" android:grantUriPermissions="true">
+      <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths" />
+    </provider>
+    <activity android:name="com.unity3d.player.UnityPlayerActivity" android:theme="@style/UnityThemeSelector">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+      <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+    </activity>
+    <activity-alias android:enabled="false" android:exported="true" android:name=".launcher" android:targetActivity="com.unity3d.player.UnityPlayerActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.HOME" />
+        <category android:name="android.intent.category.DEFAULT" />
+      </intent-filter>
+    </activity-alias>
+  </application>
+  <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+</manifest>

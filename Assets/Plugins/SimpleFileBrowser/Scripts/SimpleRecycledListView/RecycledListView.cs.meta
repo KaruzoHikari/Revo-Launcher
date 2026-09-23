@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 87ad67b4806678e40a492e337338760b
+timeCreated: 1485620000
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113006
+  packageName: Runtime File Browser
+  packageVersion: 1.7.7
+  assetPath: Assets/Plugins/SimpleFileBrowser/Scripts/SimpleRecycledListView/RecycledListView.cs
+  uploadId: 914872

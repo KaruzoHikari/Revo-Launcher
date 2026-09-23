@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5e66896448428cf46a1854dbdc014914
+timeCreated: 1601390136
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 68068
+  packageName: In-game Debug Console
+  packageVersion: 1.8.9
+  assetPath: Assets/Plugins/IngameDebugConsole/Prefabs/CommandSuggestion.prefab
+  uploadId: 970394

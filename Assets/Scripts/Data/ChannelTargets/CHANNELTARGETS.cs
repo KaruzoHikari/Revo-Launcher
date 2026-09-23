@@ -1,0 +1,7 @@
+﻿namespace Misc
+{
+    public enum CHANNELTARGETS
+    {
+        APP, EMULATOR, FILE, WEB, SHOP, WEBHOOK, STEAM, PROGRAMSTARTUP, APPLE_SHORTCUTS, APPLE_LINK
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "AutomatedSetup": true,
+    "PhotoLibraryUsageDescription": "The app requires access to Photos to allow users to create their own animations and themes using the in-app editor, which will prompt them to select the media files they want to use for their creations.",
+    "PhotoLibraryAdditionsUsageDescription": "The app can also require access to Photos to export files from the animations and themes they create, to facilitate editing their files.",
+    "DontAskLimitedPhotosPermissionAutomaticallyOnIos14": true
+}

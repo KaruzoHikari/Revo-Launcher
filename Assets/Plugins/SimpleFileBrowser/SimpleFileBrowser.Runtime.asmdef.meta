@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c685d05731421f64287ad6d13be5af0e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113006
+  packageName: Runtime File Browser
+  packageVersion: 1.7.7
+  assetPath: Assets/Plugins/SimpleFileBrowser/SimpleFileBrowser.Runtime.asmdef
+  uploadId: 914872

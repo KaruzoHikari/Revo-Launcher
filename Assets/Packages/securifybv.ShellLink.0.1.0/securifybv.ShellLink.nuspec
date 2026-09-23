@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>securifybv.ShellLink</id>
+    <version>0.1.0</version>
+    <authors>securifybv</authors>
+    <owners>securifybv</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/securifybv/ShellLink</projectUrl>
+    <description>A .NET Class Library for processing ShellLink (LNK) files</description>
+    <tags>lnk .netstandard</tags>
+    <repository url="https://github.com/securifybv/ShellLink" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="securifybv.PropertyStore" version="0.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

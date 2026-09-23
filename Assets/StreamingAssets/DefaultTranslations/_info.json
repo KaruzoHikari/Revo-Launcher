@@ -1,0 +1,18 @@
+{
+	"version": 8,
+	"languages": {
+		"English": "en_us",
+		"Spanish": "es_es",
+		"Italian": "it_it",
+		"French": "fr_fr",
+		"German": "de_de",
+		"Polish": "pl_pl",
+		"Portuguese": "pt_br",
+		"Russian": "ru_ru",
+		"Turkish": "tr_tr",
+		"Ukrainian": "uk_uk",
+		"Japanese": "jp_jp",
+		"Korean": "kr_kr",
+		"Hungarian": "hu_hu"
+	}
+}

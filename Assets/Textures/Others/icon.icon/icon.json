@@ -1,0 +1,54 @@
+{
+  "fill-specializations" : [
+    {
+      "value" : "automatic"
+    },
+    {
+      "appearance" : "dark",
+      "value" : "automatic"
+    }
+  ],
+  "groups" : [
+    {
+      "blur-material" : null,
+      "layers" : [
+        {
+          "fill-specializations" : [
+            {
+              "appearance" : "dark",
+              "value" : "none"
+            }
+          ],
+          "glass" : false,
+          "image-name" : "Logo NEW_5-2.svg",
+          "name" : "Logo NEW_5-2"
+        },
+        {
+          "fill-specializations" : [
+            {
+              "appearance" : "dark",
+              "value" : "none"
+            }
+          ],
+          "image-name" : "Logo NEW_5.svg",
+          "name" : "Logo NEW_5"
+        }
+      ],
+      "lighting" : "individual",
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

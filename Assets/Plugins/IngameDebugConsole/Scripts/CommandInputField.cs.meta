@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 35ae2148577b3c44fb50437f63ff9c72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 68068
+  packageName: In-game Debug Console
+  packageVersion: 1.8.9
+  assetPath: Assets/Plugins/IngameDebugConsole/Scripts/CommandInputField.cs
+  uploadId: 970394

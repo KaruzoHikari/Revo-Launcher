@@ -9,4 +9,5 @@ https://github.com/KaruzoHikari/Revo-Launcher/wiki/
 
 ## How to clone the project?
 Revo Launcher currently uses Unity 6.3 LTS (6000.3.23f1).
+
 You can simply clone the project and launch it with the right Unity version.
